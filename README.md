@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://sd-backend.maheder.repl.co) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/nathaliafguedes/Hunger-Captain.git
+1. Git Clone https://github.com/Maheder14/hunger-captain
 
 ```
 git clone 
